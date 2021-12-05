@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-var input = new int[]
+using System;
+
+var input = new []
 {
     190,
     168,
@@ -2012,7 +2014,7 @@ for (var i = 1; i < input.Length; i++)
         larger++;
 }
 
-Console.WriteLine(string.Format("Larger:{0}", larger));
+Console.WriteLine($"Larger:{larger}");
 
 larger = 0;
 
@@ -2025,4 +2027,4 @@ for (var i = 3; i < input.Length; i++)
         larger++;
 }
 
-Console.WriteLine(string.Format("Sliding Window Larger:{0}", larger));
+Console.WriteLine($"Sliding Window Larger:{larger}");
