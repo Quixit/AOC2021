@@ -71,8 +71,6 @@ Because the digits 1, 4, 7, and 8 each use a unique number of segments, you shou
 In the output values, how many times do digits 1, 4, 7, or 8 appear?
 
 Your puzzle answer was 383.
-
-The first half of this puzzle is complete! It provides one gold star: *
 --- Part Two ---
 
 Through a little deduction, you should now be able to determine the remaining digits. Consider again the first example above:
@@ -129,8 +127,12 @@ Adding all of the output values in this larger example produces 61229.
 
 For each entry, determine all of the wire/segment connections and decode the four-digit output values. What do you get if you add up all of the output values?
 
-Answer:
+Your puzzle answer was 998900.
 
-Although it hasn't changed, you can still get your puzzle input.
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, you should return to your Advent calendar and try another puzzle.
+
+If you still want to see it, you can get your puzzle input.
 
 You can also [Shareon Twitter Mastodon] this puzzle.
