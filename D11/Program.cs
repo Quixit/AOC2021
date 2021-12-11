@@ -6,17 +6,6 @@ using D11;
 
 var input = new Octopus[,]
 {
-    // { new Octopus(5), new Octopus(4), new Octopus(8), new Octopus(3), new Octopus(1), new Octopus(4), new Octopus(3), new Octopus(2), new Octopus(2), new Octopus(3)},
-    // { new Octopus(2), new Octopus(7), new Octopus(4), new Octopus(5), new Octopus(8), new Octopus(5), new Octopus(4), new Octopus(7), new Octopus(1), new Octopus(1)},
-    // { new Octopus(5), new Octopus(2), new Octopus(6), new Octopus(4), new Octopus(5), new Octopus(5), new Octopus(6), new Octopus(1), new Octopus(7), new Octopus(3)},
-    // { new Octopus(6), new Octopus(1), new Octopus(4), new Octopus(1), new Octopus(3), new Octopus(3), new Octopus(6), new Octopus(1), new Octopus(4), new Octopus(6)},
-    // { new Octopus(6), new Octopus(3), new Octopus(5), new Octopus(7), new Octopus(3), new Octopus(8), new Octopus(5), new Octopus(4), new Octopus(7), new Octopus(8)},
-    // { new Octopus(4), new Octopus(1), new Octopus(6), new Octopus(7), new Octopus(5), new Octopus(2), new Octopus(4), new Octopus(6), new Octopus(4), new Octopus(5)},
-    // { new Octopus(2), new Octopus(1), new Octopus(7), new Octopus(6), new Octopus(8), new Octopus(4), new Octopus(1), new Octopus(7), new Octopus(2), new Octopus(1)},
-    // { new Octopus(6), new Octopus(8), new Octopus(8), new Octopus(2), new Octopus(8), new Octopus(8), new Octopus(1), new Octopus(1), new Octopus(3), new Octopus(4)},
-    // { new Octopus(4), new Octopus(8), new Octopus(4), new Octopus(6), new Octopus(8), new Octopus(4), new Octopus(8), new Octopus(5), new Octopus(5), new Octopus(4)},
-    // { new Octopus(5), new Octopus(2), new Octopus(8), new Octopus(3), new Octopus(7), new Octopus(5), new Octopus(1), new Octopus(5), new Octopus(2), new Octopus(6)}
-    
     { new Octopus(6), new Octopus(1), new Octopus(1), new Octopus(1), new Octopus(8), new Octopus(2), new Octopus(1), new Octopus(7), new Octopus(6), new Octopus(7)},
     { new Octopus(1), new Octopus(7), new Octopus(6), new Octopus(3), new Octopus(6), new Octopus(1), new Octopus(1), new Octopus(6), new Octopus(1), new Octopus(5)},
     { new Octopus(3), new Octopus(5), new Octopus(1), new Octopus(2), new Octopus(6), new Octopus(8), new Octopus(3), new Octopus(1), new Octopus(3), new Octopus(1)},
