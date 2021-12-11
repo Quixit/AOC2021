@@ -207,7 +207,5 @@ var  input = new Segment[] {
         new Segment("gcebadf ed bafce bgcfad daefb bfadg aefbgd fgcdeb daeg ebd | cdgfba ecbfdg edbaf gade")
 };
 
-
-
-
 Console.WriteLine($"Instances of 1, 4, 7 & 8: {input.Sum(i => i.Values.Count(v => v.Length is 2 or 4 or 3 or 7))}");
+Console.WriteLine($"Total of values: {input.Sum(i => i.Decoded)}");
