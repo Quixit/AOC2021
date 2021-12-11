@@ -55,7 +55,6 @@ namespace D08
                         
                 }
 
-
                 i++;
                 
                 if (i >= values.Count)
